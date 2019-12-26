@@ -1,0 +1,30 @@
+.nav-spacing { 
+  text-decoration: none;
+  margin: 0 0 0 10px;
+}
+.nav-menu {
+  text-align: right;
+  
+} 
+.header {
+	text-align: center; 
+	margin: 0 0 80px;
+} 
+.table-spacing {
+	padding: 10px;
+}
+.table-heading {
+	text-align: left;
+}
+.div-main {
+	width: 500px; margin: 20px auto; padding: 30px; background-color: #fafafa;
+}
+.moby-dick {
+	float: left; display: block; margin: 0 40px 0 0;
+}
+.blockquote-style {
+	font-style: italic; font-size: 20px;
+} 
+.span-style {
+	font-style: normal; font-size: 24px; font-weight: bold; color: #00ff00;
+} 
